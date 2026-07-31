@@ -1,1 +1,3 @@
-# adarsh-code-first hi  hi
+# adarsh-code-first hi 
+this is my first Git Repository. Author-Adarsh Upadhyaya
+
